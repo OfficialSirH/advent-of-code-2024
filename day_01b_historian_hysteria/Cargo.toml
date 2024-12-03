@@ -1,0 +1,6 @@
+[package]
+name = "day_01b_historian_hysteria"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
