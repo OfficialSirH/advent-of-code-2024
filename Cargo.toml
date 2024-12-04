@@ -1,3 +1,3 @@
 [workspace]
-members = ["day_01a_historian_hysteria", "day_01b_historian_hysteria", "day_02a_red_nosed_reports", "day_02b_red_nosed_reports"]
+members = ["day_01a_historian_hysteria", "day_01b_historian_hysteria", "day_02a_red_nosed_reports", "day_02b_red_nosed_reports", "day_03a_mull_it_over", "day_03b_mull_it_over"]
 resolver = "2"

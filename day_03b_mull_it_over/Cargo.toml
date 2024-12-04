@@ -1,0 +1,6 @@
+[package]
+name = "day_03b_mull_it_over"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
